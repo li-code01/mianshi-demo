@@ -1,0 +1,12 @@
+.box {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  justify-content: space-around;
+}
+.menu {
+  width: 260px;
+}
+.inputArea {
+  flex: 1;
+}
